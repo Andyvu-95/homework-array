@@ -1,6 +1,10 @@
 body {
-    background-color: rgb(65, 63, 63);
+    background-image: url(./img/tải\ xuống.png);
+    background-size: cover;
 }
 .shadow-sm{
     background-color: white;
+}
+.container{
+    background-color: #f8f9fa31;
 }
